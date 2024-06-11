@@ -1,0 +1,40 @@
+body{background-color: blueviolet;}
+h1{color: rgb(112, 0, 0);}
+ .p3 {text-align: right;
+      font-size: 150%;
+      color: blue;
+     border-style: groove;
+     border-color: darkblue;
+     border-width: 80px;
+    }
+
+
+.p1 {border-width: 5px;
+    border-color: darkgreen;
+    border-style: groove;
+    margin-left: 20%;
+    margin-right: 30%;
+    margin-left: 20%;
+    padding-left: 30%;
+    padding-top: 10%;
+    border-width: 57px;
+}
+
+.p1 {background-color: darkmagenta;}
+
+
+.p4{text-align: left;
+font-size: 150%;
+color: forestgreen;
+border-style: groove;
+border-color: darkmagenta;
+border-width: 77px;}
+.p2{text-align: left;
+font-size: 150%;
+color: darkorange;
+border-style: groove;
+border-color: gold;
+border-width: 67px;
+
+}
+
